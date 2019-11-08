@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Zombie Forest",
+"dataUrl": "Zombie Forest.data.unityweb",
+"asmCodeUrl": "Zombie Forest.asm.code.unityweb",
+"asmMemoryUrl": "Zombie Forest.asm.memory.unityweb",
+"asmFrameworkUrl": "Zombie Forest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Zombie Forest.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
