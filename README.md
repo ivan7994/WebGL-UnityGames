@@ -17,3 +17,6 @@ https://ivan7994.github.io/WebGL-UnityGames/S2L%20WEB%200.8/index.html
 
 # Nightmares (Unity 4.6 Tutorial on unity 2019)
 https://ivan7994.github.io/WebGL-UnityGames/Nightmares/index.html
+
+#TankTutorial (5.2 - on Unity 2017.2.5f)
+https://ivan7994.github.io/WebGL-UnityGames/TanksTutorial/index.html
