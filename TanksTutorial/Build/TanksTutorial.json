@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany1",
+"productName": "UniteBoston2015TrainingDay",
+"dataUrl": "TanksTutorial.data.unityweb",
+"asmCodeUrl": "TanksTutorial.asm.code.unityweb",
+"asmMemoryUrl": "TanksTutorial.asm.memory.unityweb",
+"asmFrameworkUrl": "TanksTutorial.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
